@@ -14,7 +14,7 @@
     },
     {
       "data": {
-    "url": "https://raw.githubusercontent.com/ongkhooi/w9-map/main/js/ne_110m_admin_0_countries.topojson",
+    "url": "https://raw.githubusercontent.com/kaiyun94/FIT3179-Week9_Homework/main/js/ne_110m_admin_0_countries.topojson",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
   },
   "transform": [
@@ -22,7 +22,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/kaiyun94/FIT3179/main/Week9_Homework/data/Total_death_rate_per_100k_2019.csv"
+          "url": "https://raw.githubusercontent.com/kaiyun94/FIT3179-Week9_Homework/main/data/Total_death_rate_per_100k_2019.csv"
         },
         "key": "Country",
         "fields": ["Total_death_rate_per_100k"]
