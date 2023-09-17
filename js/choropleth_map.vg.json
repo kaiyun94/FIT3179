@@ -56,7 +56,7 @@
           "field": "Total death rate per 100k population",
           "type": "quantitative",
           "scale": {
-            "domain": [100, 500, 1000, 2000],
+            "domain": [100, 500, 800, 2000],
             "range": ["#fdbe85", "#fd8d3c", "#e6550d", "#a63603", "#612306"]
           }
         },
