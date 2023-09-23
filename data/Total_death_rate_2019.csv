@@ -1,4 +1,4 @@
-Country,Code,Continent Region,Year,Population,Total_Death_Rate
+Country,Code,Continent_Region,Year,Population,Total_Death_Rate
 Afghanistan,AFG,Asia,2019,37769499,209370
 Albania,ALB,Europe,2019,2854191,28500
 Algeria,DZA,Africa,2019,42705368,248758
